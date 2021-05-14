@@ -29,7 +29,9 @@ coco128.yaml 파일 작성시 참고하세요.
 
 ## 5. 트레이닝 후 결과물(이미지)
 
-![QA_test](pred.jpg)
+![pred](pred.jpg)
+
+![train](train.jpg)
 
 
 
